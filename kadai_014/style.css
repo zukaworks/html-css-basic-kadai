@@ -1,0 +1,35 @@
+html{
+  font-size: 20px;
+}
+
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+  }
+
+.ii {
+  font-family: Josefin Sans;
+  font-size: 2rem;
+  letter-spacing: 1.2em  
+   }
+
+h1 {
+  text-shadow: 1px 1px 2px rgb(115,115,114);
+  border-bottom: solid 3px rgb(115,115,114);
+  
+}
+
+.color01, .span_m {
+  color: rgb(255, 192, 203) 
+  }
+  
+
+.color02, .span_p  {
+  color: #a0d8ef;
+  }
+
+#basic {
+  font-weight: bold;
+}
+
+
